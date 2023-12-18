@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853018150298",
+    "project_id": "polkatta-project",
+    "storage_bucket": "polkatta-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853018150298:android:47f92b56cce754c7eb6623",
+        "android_client_info": {
+          "package_name": "lk.javainstitute.polkattaproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHXCTUWexk8f7ypBZk-lYPq8xr7YhhD9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PolkattaProject</string>
+
+    <string name="first_slide">Choose Your Product</string>
+    <string name="second_slide">Fast Delivery</string>
+    <string name="third_slide">Good Service</string>
+
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac purus sit amet nisl tincidunt tincidunt. Vivamus euismod orci et justo vulputate, at iaculis nulla vestibulum. Integer consectetur tincidunt ipsum.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
